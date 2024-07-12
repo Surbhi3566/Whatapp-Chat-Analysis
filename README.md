@@ -26,10 +26,11 @@ In this project ,Ihad worked on the questions like:
 # Visualization 
 
 Vidsualized data like:
-1.Whatapp userr with their message count
-2.Distribution of Date with User Chats
-3.Distribution of Udser with Chats
-4.Media shared by Users
+1. Whatapp userr with their message count
+2. Distribution of Date with User Chats
+3. Distribution of User with Chats
+4. Media shared by Users
 5. Top 15 Dates with most Messages
-6. Active months
+6.  Active months
 7. Active hours
+8. Most frequent word said in our group
