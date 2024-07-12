@@ -25,7 +25,7 @@ In this project ,Ihad worked on the questions like:
 
 # Visualization 
 
-Vidsualized data like:
+Visualized data like:
 1. Whatapp userr with their message count
 2. Distribution of Date with User Chats
 3. Distribution of User with Chats
